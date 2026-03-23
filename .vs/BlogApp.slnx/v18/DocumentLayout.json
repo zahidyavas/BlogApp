@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\zahid\\Desktop\\BlogApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39871766-A6D3-6521-02DF-544926FA5F47}|BlogApp.csproj|c:\\users\\zahid\\desktop\\blogapp\\entitiy\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39871766-A6D3-6521-02DF-544926FA5F47}|BlogApp.csproj|solutionrelative:entitiy\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39871766-A6D3-6521-02DF-544926FA5F47}|BlogApp.csproj|c:\\users\\zahid\\desktop\\blogapp\\entitiy\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39871766-A6D3-6521-02DF-544926FA5F47}|BlogApp.csproj|solutionrelative:entitiy\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39871766-A6D3-6521-02DF-544926FA5F47}|BlogApp.csproj|c:\\users\\zahid\\desktop\\blogapp\\entitiy\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39871766-A6D3-6521-02DF-544926FA5F47}|BlogApp.csproj|solutionrelative:entitiy\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39871766-A6D3-6521-02DF-544926FA5F47}|BlogApp.csproj|c:\\users\\zahid\\desktop\\blogapp\\entitiy\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39871766-A6D3-6521-02DF-544926FA5F47}|BlogApp.csproj|solutionrelative:entitiy\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +43,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\BlogApp\\Entitiy\\User.cs",
+              "RelativeDocumentMoniker": "Entitiy\\User.cs",
+              "ToolTip": "C:\\Users\\zahid\\Desktop\\BlogApp\\Entitiy\\User.cs",
+              "RelativeToolTip": "Entitiy\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:44:05.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\BlogApp\\Entitiy\\Comment.cs",
+              "RelativeDocumentMoniker": "Entitiy\\Comment.cs",
+              "ToolTip": "C:\\Users\\zahid\\Desktop\\BlogApp\\Entitiy\\Comment.cs",
+              "RelativeToolTip": "Entitiy\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:41:34.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\BlogApp\\Entitiy\\Tag.cs",
+              "RelativeDocumentMoniker": "Entitiy\\Tag.cs",
+              "ToolTip": "C:\\Users\\zahid\\Desktop\\BlogApp\\Entitiy\\Tag.cs",
+              "RelativeToolTip": "Entitiy\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:41:00.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\BlogApp\\Entitiy\\Post.cs",
+              "RelativeDocumentMoniker": "Entitiy\\Post.cs",
+              "ToolTip": "C:\\Users\\zahid\\Desktop\\BlogApp\\Entitiy\\Post.cs",
+              "RelativeToolTip": "Entitiy\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:37:02.382Z",
+              "EditorCaption": ""
             }
           ]
         }
